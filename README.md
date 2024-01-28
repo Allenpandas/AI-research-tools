@@ -2,10 +2,10 @@
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Allenpandas/AI-research-tools/blob/master/LICENSE)
 
-> * 本仓库fork自[Kyon Huang](https://github.com/bighuang624)的Github仓库[AI-research-tools](https://github.com/bighuang624/AI-research-tools)，在该仓库的基础上添加了一些本人觉得好用的科研工具，适用于计算机科学与技术、计算机技术、人工智能、软件工程、网络空间安全、网络与信息安全等专业涉及的研究领域。
+> * 本仓库灵感来自 [Kyon Huang](https://github.com/bighuang624) 的Github仓库 [AI-research-tools](https://github.com/bighuang624/AI-research-tools)，在该仓库的基础上添加了一些本人觉得好用的科研工具，适用于计算机科学与技术、计算机技术、人工智能、软件工程、网络空间安全、网络与信息安全等专业涉及的研究领域。
 > * 标记【待尝试】的是我还未使用过但朋友推荐或收到issues反馈有用的工具，会尽快尝试并根据体验决定是否保留。
 > * 请通过 issues 等方式向我推荐您觉得好用的但不在此清单上的 AI 领域科研工具，感谢。
-> * 读博不易，且读且整理（最后更新时间：2023.06.29）
+> * 读博不易，且读且整理（最后更新时间：2024.01.28）
 
 ## 目录  <!-- omit in toc -->
 
